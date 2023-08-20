@@ -1,0 +1,16 @@
+{
+    "name":"Chrome Extension",
+    "version":"1.0.0",
+    "description":"Banao Chrome Extension Project",
+    "permissions": [
+    "tabs",
+     "activeTab",
+    "scripting"
+    ],
+    "manifest_version":3,
+    "author":"Subhajit Dey",
+    "action":{
+        "default_popup":"popup.html",
+        "default_title":"Live Cricket match news"
+    }
+}
