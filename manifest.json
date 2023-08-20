@@ -11,6 +11,6 @@
     "author":"Subhajit Dey",
     "action":{
         "default_popup":"popup.html",
-        "default_title":"Live Cricket match news"
+        "default_title":"Project Chrome Extension"
     }
 }
